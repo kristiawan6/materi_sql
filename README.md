@@ -1,3 +1,3 @@
 # ENTITY DIAGRAM RELATIONSHIP RESTORAN
 
-[erd](/assets/erd.jpg)
+![erd](/assets/erd.jpg)
